@@ -1,2 +1,3 @@
 # Demo-Programme
-This is my first git repositary
+This is my first Git Repositary.
+Author-Kamal Kanta Maharana
